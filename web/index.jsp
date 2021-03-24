@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 23-mar-2021, 20:08:44
-    Author     : Wilber-Zruc
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
